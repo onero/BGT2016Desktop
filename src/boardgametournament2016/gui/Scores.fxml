@@ -138,147 +138,147 @@
                               <Font size="20.0" />
                            </font>
                         </TextField>
-                        <TextField fx:id="PointGame2Player2" alignment="CENTER" onAction="#addScore" prefHeight="65.0" prefWidth="66.0" GridPane.columnIndex="2" GridPane.rowIndex="2">
+                        <TextField fx:id="PointGame2Player2" alignment="CENTER" prefHeight="65.0" prefWidth="66.0" GridPane.columnIndex="2" GridPane.rowIndex="2">
                            <font>
                               <Font size="20.0" />
                            </font>
                         </TextField>
-                        <TextField fx:id="PointGame2Player3" alignment="CENTER" onAction="#addScore" prefHeight="65.0" prefWidth="66.0" GridPane.columnIndex="2" GridPane.rowIndex="3">
+                        <TextField fx:id="PointGame2Player3" alignment="CENTER" prefHeight="65.0" prefWidth="66.0" GridPane.columnIndex="2" GridPane.rowIndex="3">
                            <font>
                               <Font size="20.0" />
                            </font>
                         </TextField>
-                        <TextField fx:id="PointGame2Player4" alignment="CENTER" onAction="#addScore" prefHeight="65.0" prefWidth="66.0" GridPane.columnIndex="2" GridPane.rowIndex="4">
+                        <TextField fx:id="PointGame2Player4" alignment="CENTER" prefHeight="65.0" prefWidth="66.0" GridPane.columnIndex="2" GridPane.rowIndex="4">
                            <font>
                               <Font size="20.0" />
                            </font>
                         </TextField>
-                        <TextField fx:id="PointGame2Player5" alignment="CENTER" onAction="#addScore" prefHeight="65.0" prefWidth="66.0" GridPane.columnIndex="2" GridPane.rowIndex="5">
+                        <TextField fx:id="PointGame2Player5" alignment="CENTER" prefHeight="65.0" prefWidth="66.0" GridPane.columnIndex="2" GridPane.rowIndex="5">
                            <font>
                               <Font size="20.0" />
                            </font>
                         </TextField>
-                        <TextField fx:id="PointGame3Player1" alignment="CENTER" onAction="#addScore" prefHeight="65.0" prefWidth="66.0" GridPane.columnIndex="3" GridPane.rowIndex="1">
+                        <TextField fx:id="PointGame3Player1" alignment="CENTER" prefHeight="65.0" prefWidth="66.0" GridPane.columnIndex="3" GridPane.rowIndex="1">
                            <font>
                               <Font size="20.0" />
                            </font>
                         </TextField>
-                        <TextField fx:id="PointGame3Player2" alignment="CENTER" onAction="#addScore" prefHeight="65.0" prefWidth="66.0" GridPane.columnIndex="3" GridPane.rowIndex="2">
+                        <TextField fx:id="PointGame3Player2" alignment="CENTER" prefHeight="65.0" prefWidth="66.0" GridPane.columnIndex="3" GridPane.rowIndex="2">
                            <font>
                               <Font size="20.0" />
                            </font>
                         </TextField>
-                        <TextField fx:id="PointGame3Player3" alignment="CENTER" onAction="#addScore" prefHeight="65.0" prefWidth="66.0" GridPane.columnIndex="3" GridPane.rowIndex="3">
+                        <TextField fx:id="PointGame3Player3" alignment="CENTER" prefHeight="65.0" prefWidth="66.0" GridPane.columnIndex="3" GridPane.rowIndex="3">
                            <font>
                               <Font size="20.0" />
                            </font>
                         </TextField>
-                        <TextField fx:id="PointGame3Player4" alignment="CENTER" onAction="#addScore" prefHeight="65.0" prefWidth="66.0" GridPane.columnIndex="3" GridPane.rowIndex="4">
+                        <TextField fx:id="PointGame3Player4" alignment="CENTER" prefHeight="65.0" prefWidth="66.0" GridPane.columnIndex="3" GridPane.rowIndex="4">
                            <font>
                               <Font size="20.0" />
                            </font>
                         </TextField>
-                        <TextField fx:id="PointGame3Player5" alignment="CENTER" onAction="#addScore" prefHeight="65.0" prefWidth="66.0" GridPane.columnIndex="3" GridPane.rowIndex="5">
+                        <TextField fx:id="PointGame3Player5" alignment="CENTER" prefHeight="65.0" prefWidth="66.0" GridPane.columnIndex="3" GridPane.rowIndex="5">
                            <font>
                               <Font size="20.0" />
                            </font>
                         </TextField>
-                        <TextField fx:id="PointGame4Player1" alignment="CENTER" onAction="#addScore" prefHeight="65.0" prefWidth="66.0" GridPane.columnIndex="4" GridPane.rowIndex="1">
+                        <TextField fx:id="PointGame4Player1" alignment="CENTER" prefHeight="65.0" prefWidth="66.0" GridPane.columnIndex="4" GridPane.rowIndex="1">
                            <font>
                               <Font size="20.0" />
                            </font>
                         </TextField>
-                        <TextField fx:id="PointGame4Player2" alignment="CENTER" onAction="#addScore" prefHeight="65.0" prefWidth="66.0" GridPane.columnIndex="4" GridPane.rowIndex="2">
+                        <TextField fx:id="PointGame4Player2" alignment="CENTER" prefHeight="65.0" prefWidth="66.0" GridPane.columnIndex="4" GridPane.rowIndex="2">
                            <font>
                               <Font size="20.0" />
                            </font>
                         </TextField>
-                        <TextField fx:id="PointGame4Player3" alignment="CENTER" onAction="#addScore" prefHeight="65.0" prefWidth="66.0" GridPane.columnIndex="4" GridPane.rowIndex="3">
+                        <TextField fx:id="PointGame4Player3" alignment="CENTER" prefHeight="65.0" prefWidth="66.0" GridPane.columnIndex="4" GridPane.rowIndex="3">
                            <font>
                               <Font size="20.0" />
                            </font>
                         </TextField>
-                        <TextField fx:id="PointGame4Player4" alignment="CENTER" onAction="#addScore" prefHeight="65.0" prefWidth="66.0" GridPane.columnIndex="4" GridPane.rowIndex="4">
+                        <TextField fx:id="PointGame4Player4" alignment="CENTER" prefHeight="65.0" prefWidth="66.0" GridPane.columnIndex="4" GridPane.rowIndex="4">
                            <font>
                               <Font size="20.0" />
                            </font>
                         </TextField>
-                        <TextField fx:id="PointGame4Player5" alignment="CENTER" onAction="#addScore" prefHeight="65.0" prefWidth="66.0" GridPane.columnIndex="4" GridPane.rowIndex="5">
+                        <TextField fx:id="PointGame4Player5" alignment="CENTER" prefHeight="65.0" prefWidth="66.0" GridPane.columnIndex="4" GridPane.rowIndex="5">
                            <font>
                               <Font size="20.0" />
                            </font>
                         </TextField>
-                        <TextField fx:id="PointGame5Player1" alignment="CENTER" onAction="#addScore" prefHeight="65.0" prefWidth="66.0" GridPane.columnIndex="5" GridPane.rowIndex="1">
+                        <TextField fx:id="PointGame5Player1" alignment="CENTER" prefHeight="65.0" prefWidth="66.0" GridPane.columnIndex="5" GridPane.rowIndex="1">
                            <font>
                               <Font size="20.0" />
                            </font>
                         </TextField>
-                        <TextField fx:id="PointGame5Player2" alignment="CENTER" onAction="#addScore" prefHeight="65.0" prefWidth="66.0" GridPane.columnIndex="5" GridPane.rowIndex="2">
+                        <TextField fx:id="PointGame5Player2" alignment="CENTER" prefHeight="65.0" prefWidth="66.0" GridPane.columnIndex="5" GridPane.rowIndex="2">
                            <font>
                               <Font size="20.0" />
                            </font>
                         </TextField>
-                        <TextField fx:id="PointGame5Player3" alignment="CENTER" onAction="#addScore" prefHeight="65.0" prefWidth="66.0" GridPane.columnIndex="5" GridPane.rowIndex="3">
+                        <TextField fx:id="PointGame5Player3" alignment="CENTER" prefHeight="65.0" prefWidth="66.0" GridPane.columnIndex="5" GridPane.rowIndex="3">
                            <font>
                               <Font size="20.0" />
                            </font>
                         </TextField>
-                        <TextField fx:id="PointGame5Player4" alignment="CENTER" onAction="#addScore" prefHeight="65.0" prefWidth="66.0" GridPane.columnIndex="5" GridPane.rowIndex="4">
+                        <TextField fx:id="PointGame5Player4" alignment="CENTER" prefHeight="65.0" prefWidth="66.0" GridPane.columnIndex="5" GridPane.rowIndex="4">
                            <font>
                               <Font size="20.0" />
                            </font>
                         </TextField>
-                        <TextField fx:id="PointGame5Player5" alignment="CENTER" onAction="#addScore" prefHeight="65.0" prefWidth="66.0" GridPane.columnIndex="5" GridPane.rowIndex="5">
+                        <TextField fx:id="PointGame5Player5" alignment="CENTER" prefHeight="65.0" prefWidth="66.0" GridPane.columnIndex="5" GridPane.rowIndex="5">
                            <font>
                               <Font size="20.0" />
                            </font>
                         </TextField>
-                        <TextField fx:id="PointBonusPlayer1" alignment="CENTER" onAction="#addScore" prefHeight="65.0" prefWidth="66.0" GridPane.columnIndex="6" GridPane.rowIndex="1">
+                        <TextField fx:id="PointBonusPlayer1" alignment="CENTER" prefHeight="65.0" prefWidth="66.0" GridPane.columnIndex="6" GridPane.rowIndex="1">
                            <font>
                               <Font size="20.0" />
                            </font>
                         </TextField>
-                        <TextField fx:id="PointBonusPlayer2" alignment="CENTER" onAction="#addScore" prefHeight="65.0" prefWidth="66.0" GridPane.columnIndex="6" GridPane.rowIndex="2">
+                        <TextField fx:id="PointBonusPlayer2" alignment="CENTER" prefHeight="65.0" prefWidth="66.0" GridPane.columnIndex="6" GridPane.rowIndex="2">
                            <font>
                               <Font size="20.0" />
                            </font>
                         </TextField>
-                        <TextField fx:id="PointBonusPlayer3" alignment="CENTER" onAction="#addScore" prefHeight="65.0" prefWidth="66.0" GridPane.columnIndex="6" GridPane.rowIndex="3">
+                        <TextField fx:id="PointBonusPlayer3" alignment="CENTER" prefHeight="65.0" prefWidth="66.0" GridPane.columnIndex="6" GridPane.rowIndex="3">
                            <font>
                               <Font size="20.0" />
                            </font>
                         </TextField>
-                        <TextField fx:id="PointBonusPlayer4" alignment="CENTER" onAction="#addScore" prefHeight="65.0" prefWidth="66.0" GridPane.columnIndex="6" GridPane.rowIndex="4">
+                        <TextField fx:id="PointBonusPlayer4" alignment="CENTER" prefHeight="65.0" prefWidth="66.0" GridPane.columnIndex="6" GridPane.rowIndex="4">
                            <font>
                               <Font size="20.0" />
                            </font>
                         </TextField>
-                        <TextField fx:id="PointBonusPlayer5" alignment="CENTER" onAction="#addScore" prefHeight="65.0" prefWidth="66.0" GridPane.columnIndex="6" GridPane.rowIndex="5">
+                        <TextField fx:id="PointBonusPlayer5" alignment="CENTER" prefHeight="65.0" prefWidth="66.0" GridPane.columnIndex="6" GridPane.rowIndex="5">
                            <font>
                               <Font size="20.0" />
                            </font>
                         </TextField>
-                        <TextField fx:id="JokerGamePlayer1" alignment="CENTER" onAction="#addScore" prefHeight="65.0" prefWidth="66.0" GridPane.columnIndex="7" GridPane.rowIndex="1">
+                        <TextField fx:id="JokerGamePlayer1" alignment="CENTER" prefHeight="65.0" prefWidth="66.0" GridPane.columnIndex="7" GridPane.rowIndex="1">
                            <font>
                               <Font size="20.0" />
                            </font>
                         </TextField>
-                        <TextField fx:id="JokerGamePlayer2" alignment="CENTER" onAction="#addScore" prefHeight="65.0" prefWidth="66.0" GridPane.columnIndex="7" GridPane.rowIndex="2">
+                        <TextField fx:id="JokerGamePlayer2" alignment="CENTER" prefHeight="65.0" prefWidth="66.0" GridPane.columnIndex="7" GridPane.rowIndex="2">
                            <font>
                               <Font size="20.0" />
                            </font>
                         </TextField>
-                        <TextField fx:id="JokerGamePlayer3" alignment="CENTER" onAction="#addScore" prefHeight="65.0" prefWidth="66.0" GridPane.columnIndex="7" GridPane.rowIndex="3">
+                        <TextField fx:id="JokerGamePlayer3" alignment="CENTER" prefHeight="65.0" prefWidth="66.0" GridPane.columnIndex="7" GridPane.rowIndex="3">
                            <font>
                               <Font size="20.0" />
                            </font>
                         </TextField>
-                        <TextField fx:id="JokerGamePlayer4" alignment="CENTER" onAction="#addScore" prefHeight="65.0" prefWidth="66.0" GridPane.columnIndex="7" GridPane.rowIndex="4">
+                        <TextField fx:id="JokerGamePlayer4" alignment="CENTER" prefHeight="65.0" prefWidth="66.0" GridPane.columnIndex="7" GridPane.rowIndex="4">
                            <font>
                               <Font size="20.0" />
                            </font>
                         </TextField>
-                        <TextField fx:id="JokerGamePlayer5" alignment="CENTER" onAction="#addScore" prefHeight="65.0" prefWidth="66.0" GridPane.columnIndex="7" GridPane.rowIndex="5">
+                        <TextField fx:id="JokerGamePlayer5" alignment="CENTER" prefHeight="65.0" prefWidth="66.0" GridPane.columnIndex="7" GridPane.rowIndex="5">
                            <font>
                               <Font size="20.0" />
                            </font>
