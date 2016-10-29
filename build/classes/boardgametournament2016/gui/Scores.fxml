@@ -103,7 +103,7 @@
                               <Font size="18.0" />
                            </font>
                         </Label>
-                        <Label fx:id="lblJoker1" alignment="CENTER" layoutX="474.0" layoutY="10.0" prefHeight="70.0" prefWidth="74.0" text="Total" GridPane.columnIndex="8">
+                        <Label fx:id="lblTotal" alignment="CENTER" layoutX="474.0" layoutY="10.0" prefHeight="70.0" prefWidth="74.0" text="Total" GridPane.columnIndex="8">
                            <font>
                               <Font size="18.0" />
                            </font>
