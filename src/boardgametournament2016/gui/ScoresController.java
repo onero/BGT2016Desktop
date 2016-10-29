@@ -410,6 +410,7 @@ public class ScoresController implements Initializable {
             PointBonusPlayer3.setEditable(false);
             PointBonusPlayer4.setEditable(false);
             PointBonusPlayer5.setEditable(false);
+
         }
 
     }
