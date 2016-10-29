@@ -43,27 +43,27 @@
                               <Font size="18.0" />
                            </font>
                         </Label>
-                        <Label fx:id="lblGame1" alignment="CENTER" layoutX="10.0" layoutY="11.0" prefHeight="70.0" prefWidth="74.0" text="Game 1" GridPane.columnIndex="1">
+                        <Label fx:id="lblGame1" alignment="CENTER" layoutX="10.0" layoutY="11.0" prefHeight="70.0" prefWidth="74.0" text="Game 1" wrapText="true" GridPane.columnIndex="1">
                            <font>
                               <Font size="18.0" />
                            </font>
                         </Label>
-                        <Label fx:id="lblGame2" alignment="CENTER" layoutX="84.0" layoutY="11.0" prefHeight="70.0" prefWidth="74.0" text="Game 2" GridPane.columnIndex="2">
+                        <Label fx:id="lblGame2" alignment="CENTER" layoutX="84.0" layoutY="11.0" prefHeight="70.0" prefWidth="74.0" text="Game 2" wrapText="true" GridPane.columnIndex="2">
                            <font>
                               <Font size="18.0" />
                            </font>
                         </Label>
-                        <Label fx:id="lblGame3" alignment="CENTER" layoutX="10.0" layoutY="11.0" prefHeight="70.0" prefWidth="74.0" text="Game 3" GridPane.columnIndex="3">
+                        <Label fx:id="lblGame3" alignment="CENTER" layoutX="10.0" layoutY="11.0" prefHeight="70.0" prefWidth="74.0" text="Game 3" wrapText="true" GridPane.columnIndex="3">
                            <font>
                               <Font size="18.0" />
                            </font>
                         </Label>
-                        <Label fx:id="lblGame4" alignment="CENTER" layoutX="10.0" layoutY="11.0" prefHeight="70.0" prefWidth="74.0" text="Game 4" GridPane.columnIndex="4">
+                        <Label fx:id="lblGame4" alignment="CENTER" layoutX="10.0" layoutY="11.0" prefHeight="70.0" prefWidth="74.0" text="Game 4" wrapText="true" GridPane.columnIndex="4">
                            <font>
                               <Font size="18.0" />
                            </font>
                         </Label>
-                        <Label fx:id="lblGame5" alignment="CENTER" layoutX="10.0" layoutY="11.0" prefHeight="70.0" prefWidth="74.0" text="Game 5" GridPane.columnIndex="5">
+                        <Label fx:id="lblGame5" alignment="CENTER" layoutX="10.0" layoutY="11.0" prefHeight="70.0" prefWidth="74.0" text="Game 5" wrapText="true" GridPane.columnIndex="5">
                            <font>
                               <Font size="18.0" />
                            </font>
@@ -78,32 +78,32 @@
                               <Font size="18.0" />
                            </font>
                         </Label>
-                        <Label fx:id="lblPlayer1" alignment="CENTER" layoutX="10.0" layoutY="11.0" prefHeight="70.0" prefWidth="74.0" text="Adam" GridPane.rowIndex="1">
+                        <Label fx:id="lblPlayer1" alignment="CENTER" layoutX="10.0" layoutY="11.0" prefHeight="70.0" prefWidth="74.0" text="Adam" wrapText="true" GridPane.rowIndex="1">
                            <font>
                               <Font size="18.0" />
                            </font>
                         </Label>
-                        <Label fx:id="lblPlayer2" alignment="CENTER" layoutX="10.0" layoutY="11.0" prefHeight="70.0" prefWidth="74.0" text="Antonello" GridPane.rowIndex="2">
+                        <Label fx:id="lblPlayer2" alignment="CENTER" layoutX="10.0" layoutY="11.0" prefHeight="70.0" prefWidth="74.0" text="Antonello" wrapText="true" GridPane.rowIndex="2">
                            <font>
                               <Font size="18.0" />
                            </font>
                         </Label>
-                        <Label fx:id="lblPlayer3" alignment="CENTER" layoutX="10.0" layoutY="11.0" prefHeight="70.0" prefWidth="74.0" text="Elisabetta" GridPane.rowIndex="3">
+                        <Label fx:id="lblPlayer3" alignment="CENTER" layoutX="10.0" layoutY="11.0" prefHeight="70.0" prefWidth="74.0" text="Elisabetta" wrapText="true" GridPane.rowIndex="3">
                            <font>
                               <Font size="18.0" />
                            </font>
                         </Label>
-                        <Label fx:id="lblPlayer4" alignment="CENTER" layoutX="10.0" layoutY="11.0" prefHeight="70.0" prefWidth="74.0" text="Enrico" GridPane.rowIndex="4">
+                        <Label fx:id="lblPlayer4" alignment="CENTER" layoutX="10.0" layoutY="11.0" prefHeight="70.0" prefWidth="74.0" text="Enrico" wrapText="true" GridPane.rowIndex="4">
                            <font>
                               <Font size="18.0" />
                            </font>
                         </Label>
-                        <Label fx:id="lblPlayer5" alignment="CENTER" layoutX="10.0" layoutY="10.0" prefHeight="70.0" prefWidth="74.0" text="Francesca" GridPane.rowIndex="5">
+                        <Label fx:id="lblPlayer5" alignment="CENTER" layoutX="10.0" layoutY="10.0" prefHeight="70.0" prefWidth="74.0" text="Francesca" wrapText="true" GridPane.rowIndex="5">
                            <font>
                               <Font size="18.0" />
                            </font>
                         </Label>
-                        <Label fx:id="lblJoker1" alignment="CENTER" layoutX="474.0" layoutY="10.0" prefHeight="70.0" prefWidth="74.0" text="Total" GridPane.columnIndex="8">
+                        <Label fx:id="lblTotal" alignment="CENTER" layoutX="474.0" layoutY="10.0" prefHeight="70.0" prefWidth="74.0" text="Total" GridPane.columnIndex="8">
                            <font>
                               <Font size="18.0" />
                            </font>
@@ -314,11 +314,11 @@
                            </font>
                         </Label>
                         <CheckBox fx:id="checkGame1" contentDisplay="CENTER" graphicTextGap="0.0" mnemonicParsing="false" onAction="#addScoreGame1" prefHeight="54.0" prefWidth="66.0" text="Played" GridPane.columnIndex="1" GridPane.rowIndex="6" />
-                        <CheckBox fx:id="checkGame2" contentDisplay="CENTER" graphicTextGap="0.0" mnemonicParsing="false" prefHeight="54.0" prefWidth="66.0" text="Played" GridPane.columnIndex="2" GridPane.rowIndex="6" />
-                        <CheckBox fx:id="checkGame3" contentDisplay="CENTER" graphicTextGap="0.0" mnemonicParsing="false" prefHeight="54.0" prefWidth="66.0" text="Played" GridPane.columnIndex="3" GridPane.rowIndex="6" />
-                        <CheckBox fx:id="checkGame4" contentDisplay="CENTER" graphicTextGap="0.0" mnemonicParsing="false" prefHeight="54.0" prefWidth="66.0" text="Played" GridPane.columnIndex="4" GridPane.rowIndex="6" />
-                        <CheckBox fx:id="checkGame5" contentDisplay="CENTER" graphicTextGap="0.0" mnemonicParsing="false" prefHeight="54.0" prefWidth="66.0" text="Played" GridPane.columnIndex="5" GridPane.rowIndex="6" />
-                        <CheckBox fx:id="checkBonus" contentDisplay="CENTER" graphicTextGap="0.0" mnemonicParsing="false" prefHeight="54.0" prefWidth="66.0" text="Played" GridPane.columnIndex="6" GridPane.rowIndex="6" />
+                        <CheckBox fx:id="checkGame2" contentDisplay="CENTER" graphicTextGap="0.0" mnemonicParsing="false" onAction="#addScoreGame2" prefHeight="54.0" prefWidth="66.0" text="Played" GridPane.columnIndex="2" GridPane.rowIndex="6" />
+                        <CheckBox fx:id="checkGame3" contentDisplay="CENTER" graphicTextGap="0.0" mnemonicParsing="false" onAction="#addScoreGame3" prefHeight="54.0" prefWidth="66.0" text="Played" GridPane.columnIndex="3" GridPane.rowIndex="6" />
+                        <CheckBox fx:id="checkGame4" contentDisplay="CENTER" graphicTextGap="0.0" mnemonicParsing="false" onAction="#addScoreGame4" prefHeight="54.0" prefWidth="66.0" text="Played" GridPane.columnIndex="4" GridPane.rowIndex="6" />
+                        <CheckBox fx:id="checkGame5" contentDisplay="CENTER" graphicTextGap="0.0" mnemonicParsing="false" onAction="#addScoreGame5" prefHeight="54.0" prefWidth="66.0" text="Played" GridPane.columnIndex="5" GridPane.rowIndex="6" />
+                        <CheckBox fx:id="checkBonus" contentDisplay="CENTER" graphicTextGap="0.0" mnemonicParsing="false" onAction="#addScoreBonus" prefHeight="54.0" prefWidth="66.0" text="Played" GridPane.columnIndex="6" GridPane.rowIndex="6" />
                      </children>
                   </GridPane>
                </children>
