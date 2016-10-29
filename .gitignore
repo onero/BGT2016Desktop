@@ -9,8 +9,8 @@
 *.ear
 
 # FXML
-**build/
-**dist/
+/build/
+/dist/
 nbproject/
 test/
 build/built-jar.properties
