@@ -7,7 +7,6 @@ package boardgametournament2016.gui;
 
 import java.net.URL;
 import java.util.ResourceBundle;
-import javafx.event.ActionEvent;
 import javafx.fxml.FXML;
 import javafx.fxml.Initializable;
 import javafx.scene.control.CheckBox;
@@ -138,6 +137,9 @@ public class ScoresController implements Initializable {
 
     /**
      * Initializes the controller class.
+     *
+     * @param url
+     * @param rb
      */
     @Override
     public void initialize(URL url, ResourceBundle rb) {
@@ -145,25 +147,12 @@ public class ScoresController implements Initializable {
     }
 
     /**
-     * Adds the current value to the players total score
-     *
-     * @param event
-     */
-    public void addScore(ActionEvent event) {
-        //Add the value parsed from the current players score to the players total score
-        System.out.println(event.getSource());
-    }
-
-    public void addPoint(ActionEvent event) {
-
-    }
-
-    /**
-     * Checks if PointGame1Player 1-5 is not empty, if it is not then adds all
+     * Checks if PointGame1Player1-5 is not empty, if it is not then adds all
      * the scores to the respective players total score Then displays the score
      * under
      */
     public void addScoreGame1() {
+        //TODO Make this dynamic and reusable!
         if (!PointGame1Player1.getText().isEmpty()
                 && !PointGame1Player2.getText().isEmpty()
                 && !PointGame1Player3.getText().isEmpty()
@@ -193,11 +182,6 @@ public class ScoresController implements Initializable {
             checkGame1.setDisable(true);
         }
 
-    }
-
-    public void addScorePlayer1Game2() {
-        player1Total += Integer.parseInt(PointGame2Player1.getText());
-        TotalPlayer1.setText("" + player1Total);
     }
 
 }

@@ -314,7 +314,7 @@
                            </font>
                         </Label>
                         <CheckBox fx:id="checkGame1" contentDisplay="CENTER" graphicTextGap="0.0" mnemonicParsing="false" onAction="#addScoreGame1" prefHeight="54.0" prefWidth="66.0" text="Played" GridPane.columnIndex="1" GridPane.rowIndex="6" />
-                        <CheckBox fx:id="checkGame2" contentDisplay="CENTER" graphicTextGap="0.0" mnemonicParsing="false" onAction="#addScore" prefHeight="54.0" prefWidth="66.0" text="Played" GridPane.columnIndex="2" GridPane.rowIndex="6" />
+                        <CheckBox fx:id="checkGame2" contentDisplay="CENTER" graphicTextGap="0.0" mnemonicParsing="false" prefHeight="54.0" prefWidth="66.0" text="Played" GridPane.columnIndex="2" GridPane.rowIndex="6" />
                         <CheckBox fx:id="checkGame3" contentDisplay="CENTER" graphicTextGap="0.0" mnemonicParsing="false" prefHeight="54.0" prefWidth="66.0" text="Played" GridPane.columnIndex="3" GridPane.rowIndex="6" />
                         <CheckBox fx:id="checkGame4" contentDisplay="CENTER" graphicTextGap="0.0" mnemonicParsing="false" prefHeight="54.0" prefWidth="66.0" text="Played" GridPane.columnIndex="4" GridPane.rowIndex="6" />
                         <CheckBox fx:id="checkGame5" contentDisplay="CENTER" graphicTextGap="0.0" mnemonicParsing="false" prefHeight="54.0" prefWidth="66.0" text="Played" GridPane.columnIndex="5" GridPane.rowIndex="6" />
